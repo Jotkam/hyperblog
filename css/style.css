@@ -16,6 +16,13 @@ body
 
 }
 
+#cabecera
+{
+    background-color: blueviolet;
+    color: white;
+    
+}
+
 #container h1
 {
     font-size: 20xp;
